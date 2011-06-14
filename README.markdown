@@ -1,1 +1,2 @@
-# My sample app                     :)
+# My sample app 
+this is a testing app
